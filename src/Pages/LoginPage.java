@@ -7,7 +7,7 @@ public class LoginPage {
 		String name="admin";
 		String pass = "admin123";
 		System.out.println("Logged in succefull");
-		
+		System.out.println("Logged out succefull");
 	}
 
 }
